@@ -1,4 +1,4 @@
- """# Ferramentas e Conceitos - CLI, CodeDeploy, Terraform e DevOps
+# Ferramentas e Conceitos - CLI, CodeDeploy, Terraform e DevOps
 
 ## Command Line Interface (CLI)
 **Command Line Interface (CLI)** é uma ferramenta baseada em linha de comando para gerenciar a AWS.  
